@@ -1,0 +1,49 @@
+html, body{
+	font-family: 'Comic Sans MS';
+}
+
+.nav-wrapper .brand-logo{
+	font-size: 20px;
+}
+
+.nav-wrapper ul > li > a{
+	color: #2196f3;
+	font-size: 20px;
+	font-style: bold;
+}
+
+.nav-wrapper img{
+	width: 60px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-right: 5px;
+}
+
+.home1-image img{
+	margin-top: 180px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home1-text{
+	text-align: center;
+	margin-top: 150px;
+}
+
+.home1-text .button{
+	font-size: 30px;
+	color: black;
+	background-color: #90caf9;
+	padding: 5px 30px;
+	border-radius: 8px;
+	border: 2px solid #000;
+}
+
+.arah i{
+	margin-top: 50px;
+}
+
+.home2 img{
+	margin-left: auto;
+	margin-right: auto;
+}
